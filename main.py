@@ -179,9 +179,12 @@ for i in range(len(test_hands)):
             hand_str = hand_str + " " + model_key[j]
     guess_bid = round(get_bid(answer), 0)
     correct_bid = get_bid(test_bids[i])
-    print(hand_str, " guess bid: ", guess_bid, "| correct bid: ", correct_bid)
+    # print(hand_str, " guess bid: ", guess_bid, "| correct bid: ", correct_bid)
     if abs(guess_bid - correct_bid) <= 5.0:
         num_correct = num_correct + 1
+    else:
+        print(hand_str, " guess bid: ", guess_bid, "| correct bid: ", correct_bid)
+
 accuracy = num_correct / len(test_hands)
 print("Test Accuracy: ", accuracy)
     # do some math to allow a range of inaccuracy
