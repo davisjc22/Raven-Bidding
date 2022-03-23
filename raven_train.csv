@@ -1,0 +1,536 @@
+Hands,Card 1,Card 2,Card 3,Card 4,Card 5,Card 6,Card 7,Card 8,Card 9,Card 10,Bid
+Hand 1,Black 6,Green 10,Green 12,Green 13,Red 10,Red 11,Red 13,Yellow 14,Yellow 6,Yellow 9,75
+hand 2,Black 10,Black 11,Black 12,Black 13,Black 5,Green 10,Green 6,Red 14,Red 8,Yellow 5,85
+Hand 3,Black 7,Black 8,Green 10,Green 11,Green 7,Red 5,Red 6,Red 9,Rook,Yellow 7,70
+Hand 4,Black 9,Green 10,Green 14,Green 5,Green 8,Green 9,Red 12,Red 7,Yellow 10,Yellow 11,80
+Hand 5,Black 10,Black 13,Black 14,Green 11,Green 13,Green 7,Red 6,Red 7,Yellow 11,Yellow 12,80
+Hand 6,Black 11,Black 12,Green 10,Green 7,Green 9,Red 10,Red 13,Red 5,Red 8,Yellow 14,75
+Hand 7,Green 12,Green 14,Green 6,Green 7,Red 12,Red 9,Yellow 10,Yellow 13,Yellow 8,Yellow 9,80
+Hand 8,Black 5,Black 6,Green 5,Green 7,Red 11,Red 14,Rook,Yellow 5,Yellow 6,Yellow 7,80
+Hand 9,Black 14,Black 6,Green 12,Green 13,Green 7,Red 11,Red 13,Rook,Yellow 12,Yellow 14,85
+Hand 10,Black 14,Black 5,Black 7,Green 10,Green 5,Green 6,Red 10,Red 14,Red 9,Yellow 5,80
+Hand 11,Black 12,Black 13,Black 14,Black 8,Green 14,Green 9,Red 6,Red 8,Yellow 6,Yellow 7,85
+Hand 12,Black 10,Black 11,Black 14,Green 11,Green 8,Red 12,Red 5,Yellow 10,Yellow 8,Yellow 9,80
+Hand 13,Black 5,Black 9,Green 10,Green 13,Green 6,Red 10,Red 14,Rook,Yellow 10,Yellow 9,80
+Hand 14,Black 12,Black 13,Green 7,Green 8,Red 11,Red 12,Red 13,Red 14,Red 8,Yellow 8,90
+Hand 15,Black 10,Black 11,Black 8,Green 5,Green 9,Red 14,Red 9,Yellow 12,Yellow 14,Yellow 5,80
+Hand 16,Black 14,Black 6,Green 11,Green 14,Red 14,Red 6,Red 7,Yellow 11,Yellow 6,Yellow 7,80
+Hand 17,Black 13,Black 14,Green 13,Green 6,Red 11,Red 12,Red 13,Red 5,Yellow 14,Yellow 7,85
+Hand 18,Black 12,Black 9,Green 10,Green 12,Green 7,Green 9,Red 8,Yellow 10,Yellow 12,Yellow 14,80
+Hand 19,Black 5,Black 8,Green 11,Green 5,Green 8,Red 14,Red 7,Rook,Yellow 14,Yellow 6,85
+Hand 20,Black 10,Black 7,Green 14,Red 10,Red 6,Red 9,Yellow 13,Yellow 14,Yellow 5,Yellow 8,80
+Hand 21,Black 12,Black 13,Black 7,Green 9,Red 10,Red 13,Red 5,Red 6,Red 7,Yellow 12,85
+Hand 22,Black 11,Green 10,Green 14,Green 6,Green 8,Red 12,Red 13,Rook,Yellow 10,Yellow 6,85
+Hand 23,Black 5,Black 8,Green 11,Green 13,Red 13,Red 14,Red 9,Yellow 5,Yellow 8,Yellow 9,80
+Hand 24,Black 10,Black 14,Black 9,Green 12,Red 11,Red 13,Red 8,Yellow 11,Yellow 13,Yellow 7,80
+Hand 25,Black 6,Black 8,Green 12,Green 14,Green 6,Green 7,Red 10,Red 11,Yellow 5,Yellow 7,80
+Hand 26,Black 12,Black 13,Green 10,Green 12,Red 5,Red 6,Red 8,Rook,Yellow 14,Yellow 6,75
+Hand 27,Black 14,Black 5,Black 7,Green 12,Green 13,Red 13,Red 7,Yellow 11,Yellow 12,Yellow 8,75
+Hand 28,Black 10,Black 9,Green 11,Green 12,Green 5,Red 12,Red 14,Yellow 10,Yellow 13,Yellow 9,75
+Hand 29,Black 13,Black 6,Black 8,Black 9,Green 6,Red 12,Red 13,Red 14,Red 9,Yellow 5,80
+Hand 30,Black 10,Black 11,Black 6,Black 7,Green 7,Green 9,Red 11,Rook,Yellow 12,Yellow 13,80
+Hand 31,Black 14,Black 6,Green 10,Green 12,Green 14,Green 8,Red 5,Yellow 11,Yellow 14,Yellow 7,85
+Hand 32,Black 12,Black 5,Black 6,Green 11,Green 13,Green 5,Red 10,Red 6,Red 7,Yellow 9,75
+Hand 33,Black 10,Black 13,Black 6,Green 10,Green 13,Green 8,Red 9,Yellow 12,Yellow 14,Yellow 7,75
+Hand 34,Black 5,Red 10,Red 11,Red 13,Red 14,Red 5,Red 7,Rook,Yellow 11,Yellow 12,95
+Hand 35,Black 12,Green 11,Green 5,Green 9,Red 12,Red 8,Yellow 12,Yellow 6,Yellow 8,Yellow 9,75
+Hand 36,Black 11,Black 14,Black 7,Green 12,Green 14,Green 6,Red 6,Yellow 12,Yellow 13,Yellow 5,80
+Hand 37,Black 11,Black 7,Green 12,Green 7,Green 8,Red 10,Red 12,Red 14,Red 5,Yellow 10,80
+Hand 38,Black 13,Black 8,Green 13,Green 6,Red 11,Yellow 10,Yellow 11,Yellow 12,Yellow 13,Yellow 7,85
+Hand 39,Black 10,Black 14,Black 5,Black 6,Green 10,Green 14,Green 9,Yellow 10,Yellow 6,Yellow 8,85
+Hand 40,Black 12,Black 9,Green 5,Red 13,Red 7,Red 9,Yellow 10,Yellow 14,Yellow 5,Yellow 9,80
+Hand 41,Black 13,Black 14,Black 8,Green 12,Red 11,Red 12,Red 5,Rook,Yellow 11,Yellow 12,85
+Hand 42,Black 10,Black 9,Green 5,Green 9,Red 6,Red 7,Red 9,Rook,Yellow 13,Yellow 9,75
+Hand 43,Black 6,Green 10,Green 11,Green 7,Rook,Yellow 10,Yellow 14,Yellow 5,Yellow 7,Yellow 8,85
+Hand 44,Black 11,Black 5,Green 13,Green 6,Green 8,Red 13,Red 14,Red 8,Rook,Yellow 6,85
+Hand 45,Black 11,Black 12,Black 5,Black 7,Black 9,Green 9,Red 11,Red 12,Yellow 12,Yellow 5,80
+Hand 46,Black 12,Black 8,Black 9,Green 6,Green 7,Green 9,Red 5,Rook,Yellow 13,Yellow 6,75
+Hand 47,Black 5,Black 8,Green 10,Green 13,Green 5,Red 14,Red 9,Yellow 5,Yellow 8,Yellow 9,75
+Hand 48,Black 10,Black 11,Black 13,Black 6,Black 7,Black 8,Red 10,Red 13,Yellow 11,Yellow 7,85
+Hand 49,Black 14,Black 8,Green 12,Green 14,Green 8,Red 11,Red 12,Red 6,Red 7,Red 8,85
+Hand 50,Black 10,Black 12,Black 14,Green 12,Green 13,Green 14,Green 9,Red 14,Red 5,Yellow 10,85
+Hand 51,Black 11,Black 13,Black 5,Black 9,Green 7,Red 10,Red 5,Red 6,Yellow 11,Yellow 8,75
+Hand 52,Black 8,Red 11,Red 12,Red 5,Red 7,Red 8,Red 9,Rook,Yellow 5,Yellow 7,90
+Hand 53,Black 6,Black 7,Green 10,Green 11,Green 5,Green 8,Red 5,Yellow 13,Yellow 14,Yellow 6,75
+Hand 54,Black 13,Black 14,Green 5,Green 7,Red 5,Yellow 10,Yellow 11,Yellow 13,Yellow 5,Yellow 7,85
+Hand 55,Black 10,Black 11,Black 14,Black 5,Green 6,Red 10,Red 12,Red 7,Red 8,Yellow 8,80
+Hand 56,Black 14,Black 8,Green 11,Green 13,Green 8,Red 11,Red 13,Red 6,Rook,Yellow 9,80
+Hand 57,Black 12,Black 14,Black 6,Black 7,Black 9,Green 10,Green 12,Green 14,Green 9,Yellow 12,85
+Hand 58,Green 5,Green 8,Red 11,Red 7,Yellow 10,Yellow 11,Yellow 14,Yellow 5,Yellow 6,Yellow 7,85
+Hand 59,Black 13,Black 5,Black 8,Green 11,Green 12,Red 10,Red 11,Red 14,Red 6,Yellow 8,80
+Hand 60,Black 10,Black 12,Red 11,Red 12,Red 13,Red 8,Red 9,Rook,Yellow 12,Yellow 13,85
+Hand 61,Black 11,Black 14,Black 6,Black 9,Green 10,Green 6,Green 9,Red 11,Red 5,Yellow 9,80
+Hand 62,Black 6,Black 9,Green 11,Green 7,Red 13,Red 6,Red 7,Red 9,Yellow 5,Yellow 9,75
+Hand 63,Black 11,Black 12,Black 6,Black 7,Black 8,Green 5,Green 8,Rook,Yellow 11,Yellow 13,85
+Hand 64,Black 10,Black 14,Black 6,Green 13,Green 14,Red 10,Red 5,Red 8,Yellow 12,Yellow 14,85
+Hand 65,Black 6,Green 10,Green 6,Green 9,Red 11,Red 12,Red 14,Yellow 6,Yellow 7,Yellow 8,75
+Hand 66,Black 12,Green 12,Green 6,Green 7,Green 8,Red 12,Red 13,Yellow 11,Yellow 12,Yellow 6,70
+Hand 67,Black 11,Black 14,Black 5,Black 6,Green 6,Red 7,Rook,Yellow 10,Yellow 13,Yellow 9,80
+Hand 68,Black 7,Green 10,Green 14,Green 5,Green 6,Green 9,Red 6,Red 8,Yellow 14,Yellow 7,80
+Hand 69,Black 8,Green 11,Green 6,Red 10,Red 11,Red 14,Red 5,Red 9,Yellow 5,Yellow 8,80
+Hand 70,Black 12,Black 7,Green 10,Green 12,Green 14,Green 5,Green 7,Red 14,Yellow 6,Yellow 8,80
+Hand 71,Black 10,Black 14,Green 13,Green 7,Red 10,Red 11,Red 12,Yellow 5,Yellow 7,Yellow 9,75
+Hand 72,Black 13,Black 5,Black 9,Green 11,Green 6,Green 7,Green 8,Red 5,Red 9,Yellow 13,70
+Hand 73,Black 5,Black 6,Black 9,Green 13,Green 14,Green 9,Red 11,Red 6,Yellow 12,Yellow 7,75
+Hand 74,Black 10,Black 11,Black 13,Black 14,Black 7,Black 8,Green 11,Green 14,Green 6,Red 8,85
+Hand 75,Green 12,Green 14,Green 5,Green 8,Red 14,Red 5,Yellow 11,Yellow 14,Yellow 6,Yellow 8,85
+Hand 76,Green 10,Green 14,Green 7,Red 10,Red 13,Red 9,Rook,Yellow 10,Yellow 13,Yellow 9,80
+Hand 77,Black 10,Black 12,Black 7,Green 10,Green 5,Red 6,Yellow 11,Yellow 12,Yellow 6,Yellow 8,70
+Hand 78,Black 11,Green 12,Green 7,Green 8,Green 9,Red 11,Red 8,Yellow 5,Yellow 7,Yellow 8,70
+Hand 79,Black 13,Black 14,Black 9,Green 11,Green 13,Red 10,Red 12,Rook,Yellow 14,Yellow 8,85
+Hand 80,Black 5,Black 6,Black 8,Red 13,Red 14,Red 7,Red 9,Yellow 10,Yellow 8,Yellow 9,75
+Hand 81,Black 7,Black 8,Black 9,Green 11,Green 12,Green 13,Green 14,Green 6,Red 12,Yellow 14,85
+Hand 82,Black 12,Black 5,Black 6,Black 9,Green 8,Red 5,Red 7,Yellow 10,Yellow 12,Yellow 9,70
+Hand 83,Black 11,Black 13,Black 9,Green 10,Green 7,Green 9,Red 11,Red 8,Yellow 13,Yellow 6,70
+Hand 84,Black 14,Black 9,Green 5,Red 10,Red 13,Red 14,Red 6,Yellow 11,Yellow 5,Yellow 7,80
+Hand 85,Black 10,Black 12,Black 9,Green 14,Red 10,Red 14,Red 5,Yellow 10,Yellow 13,Yellow 8,80
+Hand 86,Black 5,Green 10,Green 12,Green 5,Red 13,Red 7,Red 8,Yellow 14,Yellow 7,Yellow 8,75
+Hand 87,Black 13,Black 7,Green 11,Green 8,Red 6,Red 9,Yellow 12,Yellow 5,Yellow 6,Yellow 8,70
+Hand 88,Black 14,Black 6,Black 8,Green 13,Green 6,Green 7,Red 11,Red 12,Yellow 8,Yellow 9,70
+Hand 89,Black 10,Black 7,Green 10,Green 5,Green 6,Red 11,Red 6,Red 9,Yellow 10,Yellow 8,70
+Hand 90,Black 12,Black 13,Black 8,Green 13,Green 7,Yellow 11,Yellow 12,Yellow 13,Yellow 8,Yellow 9,80
+Hand 91,Black 11,Black 9,Green 8,Green 9,Red 12,Red 8,Rook,Yellow 6,Yellow 7,Yellow 8,75
+Hand 92,Black 14,Black 5,Black 6,Green 12,Red 14,Red 5,Red 7,Yellow 14,Yellow 5,Yellow 8,75
+Hand 93,Black 10,Black 11,Black 12,Black 13,Green 11,Green 5,Green 8,Yellow 13,Yellow 7,Yellow 8,75
+Hand 94,Black 5,Black 7,Black 8,Red 10,Red 6,Red 8,Yellow 11,Yellow 13,Yellow 14,Yellow 6,80
+Hand 95,Black 9,Green 10,Green 14,Green 7,Green 9,Red 12,Red 13,Yellow 10,Yellow 12,Yellow 13,75
+Hand 96,Black 14,Black 6,Green 13,Green 6,Red 5,Red 7,Rook,Yellow 13,Yellow 5,Yellow 9,75
+Hand 97,Black 11,Black 14,Black 5,Black 7,Green 10,Green 12,Red 14,Red 7,Rook,Yellow 11,80
+Hand 98,Black 10,Black 6,Black 8,Green 12,Green 13,Green 14,Red 10,Red 11,Yellow 7,Yellow 9,75
+Hand 99,Black 9,Green 12,Green 7,Green 9,Red 12,Red 6,Red 9,Yellow 10,Yellow 13,Yellow 14,75
+Hand 100,Black 12,Black 13,Green 11,Green 12,Green 6,Red 13,Red 5,Red 8,Yellow 5,Yellow 8,70
+Hand 101,Black 14,Black 9,Green 9,Red 8,Red 9,Rook,Yellow 10,Yellow 11,Yellow 8,Yellow 9,75
+Hand 102,Black 10,Black 12,Black 13,Black 5,Green 10,Green 13,Red 11,Red 12,Red 9,Yellow 14,80
+Hand 103,Black 11,Green 14,Green 6,Green 8,Red 10,Red 14,Red 5,Red 9,Yellow 5,Yellow 7,75
+Hand 104,Black 6,Black 7,Black 8,Green 5,Green 7,Red 13,Red 6,Red 9,Yellow 12,Yellow 13,70
+Hand 105,Black 12,Black 14,Green 5,Green 6,Green 7,Red 7,Yellow 10,Yellow 13,Yellow 7,Yellow 8,75
+Hand 106,Black 13,Black 5,Black 7,Black 9,Green 9,Red 12,Red 13,Yellow 12,Yellow 14,Yellow 8,75
+Hand 107,Black 10,Green 10,Green 8,Red 11,Red 6,Red 8,Red 9,Yellow 11,Yellow 5,Yellow 8,70
+Hand 108,Black 11,Black 6,Black 8,Green 11,Green 12,Green 14,Red 10,Red 14,Yellow 8,Yellow 9,75
+Hand 109,Black 10,Black 14,Black 7,Black 9,Green 14,Red 14,Red 9,Yellow 5,Yellow 8,Yellow 9,80
+Hand 110,Black 11,Black 12,Black 13,Black 8,Green 8,Red 11,Red 13,Red 9,Yellow 6,Yellow 7,70
+Hand 111,Black 5,Green 10,Green 12,Green 6,Green 7,Green 9,Red 8,Red 9,Yellow 10,Yellow 14,75
+Hand 112,Black 6,Green 13,Red 12,Red 5,Red 6,Red 7,Red 9,Yellow 11,Yellow 12,Yellow 13,70
+Hand 113,Green 10,Green 9,Red 5,Red 7,Red 9,Rook,Yellow 10,Yellow 11,Yellow 7,Yellow 8,75
+Hand 114,Black 13,Black 9,Green 11,Green 12,Green 7,Green 8,Red 14,Red 7,Yellow 13,Yellow 9,70
+Hand 115,Black 10,Black 11,Black 14,Black 7,Green 13,Green 5,Green 6,Red 11,Red 7,Yellow 5,75
+Hand 116,Black 12,Black 8,Red 12,Red 13,Red 6,Red 7,Red 8,Yellow 12,Yellow 14,Yellow 6,75
+Hand 117,Black 13,Black 7,Green 12,Green 6,Green 8,Red 13,Red 14,Red 5,Red 6,Yellow 13,75
+Hand 118,Black 11,Black 7,Black 8,Green 13,Green 9,Yellow 11,Yellow 12,Yellow 5,Yellow 8,Yellow 9,70
+Hand 119,Black 10,Black 12,Black 14,Black 7,Black 9,Green 14,Green 5,Red 8,Yellow 14,Yellow 6,85
+Hand 120,Black 5,Black 7,Green 10,Green 11,Green 7,Red 10,Red 12,Red 7,Yellow 10,Yellow 7,70
+Hand 121,Black 11,Black 12,Black 5,Green 14,Green 5,Green 6,Green 7,Red 10,Yellow 13,Yellow 6,70
+Hand 122,Black 14,Black 5,Black 8,Green 11,Red 13,Red 5,Yellow 11,Yellow 12,Yellow 14,Yellow 5,80
+Hand 123,Black 10,Black 13,Black 5,Black 6,Green 13,Red 14,Red 6,Red 8,Rook,Yellow 7,80
+Hand 124,Black 5,Black 7,Green 10,Green 8,Green 9,Red 12,Red 7,Red 9,Yellow 8,Yellow 9,70
+Hand 125,Black 10,Black 12,Black 6,Black 7,Green 8,Red 10,Red 12,Red 7,Red 9,Yellow 8,70
+Hand 126,Black 8,Green 10,Green 6,Green 7,Green 8,Red 14,Red 6,Yellow 10,Yellow 13,Yellow 7,70
+Hand 127,Black 11,Black 5,Green 11,Green 13,Green 5,Green 8,Red 13,Red 8,Yellow 11,Yellow 5,70
+Hand 128,Black 13,Black 14,Black 9,Green 14,Green 8,Red 11,Red 5,Rook,Yellow 6,Yellow 9,80
+Hand 129,Green 10,Green 6,Green 8,Red 11,Red 7,Yellow 12,Yellow 14,Yellow 6,Yellow 7,Yellow 9,80
+Hand 130,Black 8,Green 12,Green 6,Green 7,Red 10,Red 12,Red 14,Red 8,Rook,Yellow 8,85
+Hand 131,Black 10,Black 6,Black 7,Green 13,Green 5,Green 6,Green 9,Red 6,Yellow 13,Yellow 5,70
+Hand 132,Black 11,Black 13,Black 14,Black 5,Black 9,Green 11,Green 14,Green 6,Red 13,Red 5,85
+Hand 133,Black 14,Black 8,Green 6,Green 8,Red 13,Red 5,Red 6,Yellow 14,Yellow 5,Yellow 7,75
+Hand 134,Black 13,Black 5,Green 14,Green 7,Red 12,Red 7,Rook,Yellow 7,Yellow 8,Yellow 9,75
+Hand 135,Black 10,Black 11,Black 7,Green 10,Green 11,Green 5,Yellow 10,Yellow 11,Yellow 13,Yellow 7,75
+Hand 136,Black 12,Black 6,Black 9,Green 12,Green 13,Green 9,Red 14,Red 9,Yellow 12,Yellow 7,70
+Hand 137,Black 13,Black 5,Black 9,Green 13,Red 10,Red 14,Red 6,Yellow 10,Yellow 11,Yellow 8,70
+Hand 138,Black 12,Green 12,Green 6,Green 9,Red 12,Red 5,Yellow 11,Yellow 5,Yellow 7,Yellow 9,70
+Hand 139,Black 7,Black 8,Green 11,Red 13,Red 8,Rook,Yellow 11,Yellow 12,Yellow 14,Yellow 6,80
+Hand 140,Black 10,Black 11,Black 14,Black 6,Green 5,Green 7,Green 8,Red 11,Yellow 11,Yellow 13,75
+Hand 141,Black 11,Black 14,Black 6,Green 11,Green 14,Green 6,Red 7,Yellow 12,Yellow 13,Yellow 9,80
+Hand 142,Green 10,Green 14,Green 7,Red 10,Red 13,Red 5,Red 9,Rook,Yellow 14,Yellow 5,80
+Hand 143,Black 7,Black 9,Green 13,Green 14,Green 5,Green 8,Red 14,Red 8,Yellow 6,Yellow 8,75
+Hand 144,Black 10,Black 12,Black 8,Green 12,Green 14,Green 9,Red 12,Red 6,Yellow 10,Yellow 11,75
+Hand 145,Black 11,Black 9,Green 14,Green 9,Red 14,Red 6,Red 8,Yellow 10,Yellow 7,Yellow 9,75
+Hand 146,Black 13,Black 6,Green 5,Green 7,Green 8,Red 11,Red 8,Rook,Yellow 11,Yellow 8,70
+Hand 147,Black 10,Black 5,Green 13,Red 13,Red 5,Red 7,Red 8,Red 9,Yellow 13,Yellow 5,75
+Hand 148,Black 12,Black 14,Black 7,Black 8,Green 10,Green 11,Green 6,Red 12,Red 8,Yellow 14,75
+Hand 149,Black 11,Black 13,Black 7,Black 8,Green 11,Green 6,Red 7,Red 9,Yellow 12,Yellow 8,70
+Hand 150,Green 10,Green 12,Red 10,Red 14,Red 5,Yellow 13,Yellow 14,Yellow 6,Yellow 8,Yellow 9,85
+Hand 151,Black 5,Green 13,Green 14,Green 5,Green 9,Red 11,Red 12,Red 13,Yellow 7,Yellow 8,80
+Hand 152,Black 12,Black 14,Black 9,Green 7,Red 6,Rook,Yellow 10,Yellow 11,Yellow 5,Yellow 8,80
+Hand 153,Black 10,Black 14,Black 7,Black 8,Green 11,Green 13,Red 10,Red 13,Red 9,Yellow 10,75
+Hand 154,Black 10,Green 12,Green 14,Red 11,Red 12,Red 14,Red 7,Rook,Yellow 12,Yellow 9,85
+Hand 155,Black 10,Green 5,Green 7,Green 8,Green 9,Red 5,Red 8,Yellow 11,Yellow 6,Yellow 8,70
+Hand 156,Black 10,Black 11,Black 5,Black 6,Black 9,Green 10,Green 6,Red 6,Yellow 13,Yellow 14,75
+Hand 157,Black 10,Black 6,Black 9,Green 10,Green 11,Green 12,Red 7,Yellow 14,Yellow 8,Yellow 9,75
+Hand 158,Green 12,Green 7,Green 9,Red 12,Red 14,Red 5,Red 9,Yellow 13,Yellow 5,Yellow 7,80
+Hand 159,Black 14,Black 5,Black 8,Green 12,Green 6,Red 10,Red 13,Red 6,Rook,Yellow 6,75
+Hand 160,Black 12,Black 13,Green 12,Green 13,Green 14,Green 5,Green 8,Red 11,Yellow 11,Yellow 12,85
+Hand 161,Black 13,Black 14,Black 5,Green 6,Green 9,Red 12,Red 14,Yellow 11,Yellow 12,Yellow 5,80
+Hand 162,Black 11,Black 12,Black 6,Black 7,Red 10,Rook,Yellow 13,Yellow 14,Yellow 5,Yellow 7,85
+Hand 163,Black 8,Green 12,Green 8,Red 11,Red 13,Red 6,Red 7,Red 8,Red 9,Yellow 5,80
+Hand 164,Black 10,Black 9,Green 10,Green 11,Green 13,Green 14,Green 5,Red 5,Yellow 5,Yellow 6,85
+Hand 165,Black 11,Black 12,Black 6,Green 10,Green 5,Green 6,Red 13,Red 5,Red 6,Yellow 11,70
+Hand 166,Black 13,Black 7,Black 8,Black 9,Green 6,Green 8,Red 10,Yellow 12,Yellow 5,Yellow 8,70
+Hand 167,Green 12,Green 13,Green 14,Green 6,Red 12,Red 14,Red 7,Red 9,Yellow 10,Yellow 14,90
+Hand 168,Black 10,Black 14,Black 5,Green 11,Green 6,Red 8,Rook,Yellow 13,Yellow 6,Yellow 9,80
+Hand 169,Black 12,Black 14,Black 6,Green 10,Green 13,Green 9,Red 14,Red 6,Rook,Yellow 6,85
+Hand 170,Black 13,Green 10,Green 5,Green 6,Green 7,Red 10,Red 8,Yellow 14,Yellow 7,Yellow 9,75
+Hand 171,Black 10,Black 11,Green 10,Green 12,Green 8,Red 11,Red 12,Red 13,Yellow 5,Yellow 8,70
+Hand 172,Black 5,Black 7,Black 8,Black 9,Green 10,Green 14,Red 5,Red 9,Yellow 10,Yellow 13,70
+Hand 173,Black 10,Black 11,Black 13,Black 5,Green 13,Red 5,Red 6,Yellow 11,Yellow 7,Yellow 9,70
+Hand 174,Black 10,Black 12,Black 8,Green 6,Green 8,Red 11,Red 14,Red 8,Red 9,Yellow 8,75
+Hand 175,Black 10,Black 14,Black 6,Black 7,Green 9,Red 12,Red 13,Yellow 10,Yellow 12,Yellow 6,75
+Hand 176,Black 10,Black 9,Green 11,Green 5,Green 7,Red 10,Red 7,Rook,Yellow 13,Yellow 5,70
+Hand 177,Black 12,Black 5,Black 9,Green 10,Green 11,Green 12,Green 13,Green 14,Red 8,Yellow 11,85
+Hand 178,Black 10,Black 14,Black 9,Green 5,Green 6,Red 10,Red 9,Yellow 5,Yellow 6,Yellow 9,70
+Hand 179,Black 13,Black 8,Black 9,Green 7,Green 8,Green 9,Red 14,Yellow 10,Yellow 12,Yellow 8,70
+Hand 180,Black 11,Black 6,Black 9,Red 11,Red 6,Red 7,Rook,Yellow 13,Yellow 14,Yellow 7,75
+Hand 181,Black 10,Black 7,Black 9,Green 11,Green 12,Red 12,Red 14,Red 8,Yellow 11,Yellow 12,70
+Hand 182,Black 11,Black 14,Black 6,Red 10,Red 5,Yellow 10,Yellow 11,Yellow 14,Yellow 5,Yellow 8,80
+Hand 183,Black 5,Green 13,Green 14,Green 7,Green 8,Red 13,Red 6,Red 7,Yellow 11,Yellow 9,80
+Hand 184,Black 13,Black 8,Green 10,Green 5,Green 6,Red 11,Rook,Yellow 11,Yellow 13,Yellow 7,70
+Hand 185,Black 11,Black 5,Black 6,Black 7,Green 14,Green 5,Red 14,Red 5,Red 6,Yellow 7,70
+Hand 186,Black 12,Black 9,Green 10,Green 9,Red 6,Red 8,Yellow 10,Yellow 14,Yellow 5,Yellow 8,70
+Hand 187,Black 10,Black 14,Green 12,Green 13,Green 6,Red 13,Red 6,Yellow 11,Yellow 12,Yellow 6,70
+Hand 188,Black 13,Green 11,Green 7,Green 8,Red 11,Red 12,Red 6,Red 9,Rook,Yellow 13,70
+Hand 189,Black 5,Black 6,Green 11,Green 12,Green 7,Green 9,Red 11,Red 12,Yellow 12,Yellow 13,70
+Hand 190,Black 11,Black 13,Black 9,Green 11,Green 13,Red 13,Red 8,Red 9,Rook,Yellow 10,70
+Hand 191,Black 10,Black 7,Green 10,Green 11,Green 8,Red 10,Red 6,Yellow 5,Yellow 8,Yellow 9,70
+Hand 192,Black 12,Black 14,Black 8,Green 11,Green 14,Green 5,Red 14,Yellow 11,Yellow 14,Yellow 7,80
+Hand 193,Black 11,Black 13,Green 12,Green 6,Red 11,Red 6,Yellow 10,Yellow 12,Yellow 14,Yellow 7,80
+Hand 194,Black 6,Black 8,Green 10,Red 12,Red 5,Red 7,Red 9,Rook,Yellow 14,Yellow 8,75
+Hand 195,Black 12,Black 5,Green 11,Green 13,Green 7,Green 8,Red 14,Red 8,Yellow 11,Yellow 14,75
+Hand 196,Black 14,Black 7,Black 9,Green 14,Green 9,Red 10,Yellow 14,Yellow 5,Yellow 6,Yellow 9,75
+Hand 197,Black 11,Black 7,Green 11,Green 12,Green 5,Green 6,Red 12,Yellow 11,Yellow 12,Yellow 7,70
+Hand 198,Black 12,Black 14,Green 7,Red 11,Red 13,Red 6,Red 7,Yellow 10,Yellow 12,Yellow 8,75
+Hand 199,Black 5,Black 8,Black 9,Green 14,Green 8,Red 5,Red 9,Yellow 12,Yellow 13,Yellow 9,70
+Hand 200,Black 10,Black 13,Green 10,Green 13,Red 10,Red 14,Rook,Yellow 12,Yellow 14,Yellow 5,75
+Hand 201,Black 13,Black 5,Green 10,Green 13,Green 14,Green 6,Red 10,Red 7,Rook,Yellow 14,80
+Hand 202,Black 7,Black 8,Green 5,Green 6,Green 9,Red 5,Yellow 10,Yellow 12,Yellow 13,Yellow 5,75
+Hand 203,Black 12,Black 9,Green 6,Green 8,Red 11,Red 13,Red 8,Yellow 11,Yellow 6,Yellow 9,70
+Hand 204,Black 10,Black 11,Black 14,Black 6,Green 12,Green 6,Green 7,Red 12,Red 14,Yellow 7,80
+Hand 205,Black 13,Black 14,Black 6,Black 8,Black 9,Green 8,Red 12,Red 6,Red 7,Red 8,80
+Hand 206,Black 12,Green 5,Red 10,Red 11,Red 7,Red 9,Rook,Yellow 14,Yellow 7,Yellow 8,75
+Hand 207,Black 5,Green 11,Green 12,Green 13,Green 7,Red 14,Red 7,Yellow 10,Yellow 5,Yellow 6,75
+Hand 208,Black 10,Black 11,Green 10,Green 14,Green 6,Red 5,Red 7,Yellow 11,Yellow 12,Yellow 13,70
+Hand 209,Black 11,Black 13,Black 6,Black 8,Green 8,Green 9,Red 5,Yellow 10,Yellow 6,Yellow 9,70
+Hand 210,Black 13,Green 5,Green 6,Red 12,Red 13,Yellow 12,Yellow 13,Yellow 14,Yellow 5,Yellow 8,85
+Hand 211,Black 13,Black 14,Black 5,Green 14,Green 7,Red 11,Red 6,Red 8,Rook,Yellow 11,75
+Hand 212,Black 10,Black 12,Black 13,Black 7,Green 12,Red 10,Red 14,Red 7,Red 9,Yellow 7,75
+Hand 213,Black 7,Black 8,Green 10,Green 11,Green 5,Red 14,Red 5,Yellow 10,Yellow 12,Yellow 14,75
+Hand 214,Black 5,Black 9,Green 14,Red 10,Red 13,Red 7,Yellow 10,Yellow 13,Yellow 6,Yellow 9,75
+Hand 215,Black 11,Black 6,Green 12,Green 9,Red 11,Red 9,Yellow 10,Yellow 11,Yellow 5,Yellow 7,70
+Hand 216,Black 10,Black 12,Black 13,Black 14,Green 13,Green 6,Green 7,Green 8,Red 12,Yellow 10,80
+Hand 217,Black 14,Black 9,Green 10,Green 9,Red 10,Red 12,Red 13,Red 8,Rook,Yellow 12,75
+Hand 218,Black 14,Black 7,Green 11,Green 14,Green 5,Green 6,Red 7,Yellow 10,Yellow 14,Yellow 6,75
+Hand 219,Black 11,Black 13,Black 14,Black 5,Black 6,Green 12,Red 14,Red 5,Red 9,Yellow 11,80
+Hand 220,Black 10,Black 14,Green 7,Red 11,Red 6,Yellow 13,Yellow 5,Yellow 7,Yellow 8,Yellow 9,75
+Hand 221,Black 14,Black 7,Black 8,Green 14,Red 13,Red 7,Yellow 12,Yellow 13,Yellow 14,Yellow 9,80
+Hand 222,Black 12,Black 5,Black 6,Green 13,Green 6,Green 7,Green 9,Red 5,Red 7,Yellow 10,70
+Hand 223,Black 10,Green 10,Red 10,Red 14,Red 7,Red 8,Rook,Yellow 11,Yellow 5,Yellow 7,70
+Hand 224,Black 11,Black 13,Black 9,Green 11,Green 12,Green 8,Red 12,Red 6,Red 7,Yellow 6,70
+Hand 225,Black 10,Green 13,Green 8,Red 10,Red 11,Red 13,Red 9,Rook,Yellow 12,Yellow 6,75
+Hand 226,Black 13,Black 5,Black 8,Green 10,Green 6,Red 5,Red 9,Yellow 10,Yellow 7,Yellow 8,70
+Hand 227,Black 11,Black 14,Black 6,Black 7,Black 9,Red 14,Red 6,Red 8,Red 9,Yellow 9,75
+Hand 228,Green 11,Green 12,Green 7,Green 9,Red 12,Red 7,Red 9,Yellow 11,Yellow 13,Yellow 5,70
+Hand 229,Black 11,Black 14,Black 5,Black 7,Green 14,Green 9,Red 10,Red 11,Red 12,Red 6,70
+Hand 230,Black 14,Green 10,Red 14,Red 5,Red 7,Red 9,Rook,Yellow 10,Yellow 12,Yellow 14,80
+Hand 231,Black 12,Black 14,Black 6,Green 11,Green 12,Green 5,Green 8,Yellow 11,Yellow 7,Yellow 8,70
+Hand 232,Black 10,Black 14,Black 8,Green 13,Green 6,Green 7,Red 13,Red 8,Yellow 13,Yellow 5,70
+Hand 233,Black 5,Black 8,Black 9,Green 11,Green 14,Red 10,Red 13,Red 5,Yellow 12,Yellow 13,70
+Hand 234,Black 10,Black 5,Black 7,Green 13,Green 5,Green 9,Red 12,Red 8,Rook,Yellow 10,70
+Hand 235,Black 13,Black 5,Black 6,Green 6,Green 7,Red 11,Red 6,Yellow 14,Yellow 5,Yellow 8,70
+Hand 236,Black 12,Black 14,Black 5,Green 10,Green 8,Red 14,Red 7,Red 9,Yellow 11,Yellow 9,70
+Hand 237,Black 12,Black 7,Black 9,Green 13,Green 6,Green 7,Red 7,Yellow 12,Yellow 5,Yellow 8,70
+Hand 238,Black 13,Black 14,Black 5,Black 8,Green 12,Green 14,Red 10,Red 14,Red 7,Yellow 6,80
+Hand 239,Black 11,Black 6,Green 10,Green 5,Green 8,Red 11,Red 7,Rook,Yellow 11,Yellow 7,70
+Hand 240,Black 10,Green 9,Red 5,Red 6,Red 7,Red 8,Red 9,Yellow 13,Yellow 14,Yellow 9,70
+Hand 241,Black 10,Black 12,Black 13,Black 5,Black 8,Green 8,Green 9,Red 8,Red 9,Yellow 5,75
+Hand 242,Black 11,Green 11,Green 6,Green 7,Red 11,Red 14,Red 9,Rook,Yellow 11,Yellow 12,70
+Hand 243,Green 12,Red 10,Red 13,Red 5,Red 6,Red 9,Yellow 10,Yellow 6,Yellow 8,Yellow 9,70
+Hand 244,Black 14,Black 6,Green 10,Green 14,Green 5,Red 12,Red 7,Red 9,Yellow 13,Yellow 7,75
+Hand 245,Black 11,Black 6,Black 7,Green 11,Green 14,Red 11,Red 6,Rook,Yellow 14,Yellow 5,70
+Hand 246,Black 10,Black 13,Green 10,Green 11,Red 8,Red 9,Yellow 11,Yellow 13,Yellow 7,Yellow 9,70
+Hand 247,Black 14,Black 8,Black 9,Green 11,Green 13,Green 6,Green 7,Red 12,Red 14,Yellow 10,70
+Hand 248,Black 12,Black 5,Green 11,Green 12,Green 5,Green 8,Green 9,Red 10,Yellow 6,Yellow 8,70
+Hand 249,Black 10,Black 14,Black 9,Green 10,Green 12,Green 9,Red 13,Red 8,Yellow 10,Yellow 6,70
+Hand 250,Black 12,Black 7,Green 14,Red 7,Yellow 11,Yellow 13,Yellow 14,Yellow 5,Yellow 6,Yellow 7,85
+Hand 251,Black 11,Black 5,Green 5,Green 6,Green 7,Green 8,Red 10,Red 11,Red 12,Yellow 6,70
+Hand 252,Black 8,Green 11,Green 13,Red 14,Red 5,Red 9,Rook,Yellow 6,Yellow 8,Yellow 9,70
+Hand 253,Green 5,Green 7,Green 9,Red 11,Red 13,Red 14,Red 6,Yellow 10,Yellow 6,Yellow 8,75
+Hand 254,Black 10,Green 10,Green 6,Red 12,Red 5,Rook,Yellow 12,Yellow 5,Yellow 8,Yellow 9,75
+Hand 255,Black 12,Black 7,Green 12,Green 14,Green 8,Red 10,Yellow 13,Yellow 14,Yellow 7,Yellow 8,75
+Hand 256,Black 11,Black 14,Black 5,Black 6,Black 8,Black 9,Green 13,Red 8,Yellow 11,Yellow 8,75
+Hand 257,Black 10,Black 8,Green 5,Green 8,Red 12,Red 5,Red 6,Red 7,Yellow 13,Yellow 7,70
+Hand 258,Black 10,Black 11,Green 11,Green 12,Green 14,Green 6,Green 7,Red 11,Red 14,Yellow 11,80
+Hand 259,Black 10,Black 7,Black 9,Green 10,Green 13,Red 9,Yellow 10,Yellow 14,Yellow 8,Yellow 9,75
+Hand 260,Black 10,Black 12,Black 13,Black 5,Black 6,Green 9,Red 10,Red 13,Rook,Yellow 5,75
+Hand 261,Black 10,Black 14,Black 5,Green 14,Red 13,Red 9,Rook,Yellow 10,Yellow 11,Yellow 12,75
+Hand 262,Black 13,Green 10,Green 5,Red 11,Red 12,Red 14,Yellow 11,Yellow 5,Yellow 8,Yellow 9,75
+Hand 263,Black 11,Black 8,Black 9,Green 11,Green 12,Green 8,Green 9,Yellow 11,Yellow 6,Yellow 7,70
+Hand 264,Black 6,Green 13,Green 6,Green 7,Red 5,Red 6,Red 8,Yellow 11,Yellow 13,Yellow 14,75
+Hand 265,Black 13,Black 6,Black 8,Green 12,Green 9,Red 5,Red 6,Red 7,Yellow 11,Yellow 7,75
+Hand 266,Black 10,Black 12,Black 14,Black 5,Red 10,Red 9,Yellow 11,Yellow 14,Yellow 5,Yellow 6,80
+Hand 267,Black 9,Green 14,Green 6,Red 11,Red 13,Red 8,Yellow 10,Yellow 11,Yellow 8,Yellow 9,70
+Hand 268,Black 11,Black 7,Green 11,Green 13,Green 5,Green 8,Red 14,Rook,Yellow 11,Yellow 13,70
+Hand 269,Black 10,Black 11,Black 12,Green 10,Green 12,Green 13,Green 14,Red 12,Red 9,Yellow 8,80
+Hand 270,Black 14,Green 10,Green 6,Green 7,Green 8,Red 13,Red 14,Rook,Yellow 14,Yellow 7,80
+Hand 271,Black 6,Black 9,Green 10,Green 11,Red 11,Yellow 11,Yellow 12,Yellow 5,Yellow 6,Yellow 9,70
+Hand 272,Black 5,Black 7,Green 10,Green 5,Red 10,Red 5,Red 6,Red 7,Red 8,Yellow 13,70
+Hand 273,Black 11,Black 14,Green 13,Green 5,Red 10,Red 11,Red 9,Rook,Yellow 6,Yellow 7,70
+Hand 274,Black 10,Black 5,Black 7,Black 9,Red 13,Red 5,Rook,Yellow 10,Yellow 11,Yellow 8,70
+Hand 275,Black 8,Green 12,Green 7,Green 8,Green 9,Red 6,Red 7,Rook,Yellow 13,Yellow 5,70
+Hand 276,Black 12,Black 13,Green 10,Green 14,Green 6,Red 14,Red 8,Rook,Yellow 12,Yellow 14,75
+Hand 277,Black 12,Black 14,Black 6,Black 9,Green 14,Green 7,Rook,Yellow 11,Yellow 6,Yellow 9,75
+Hand 278,Black 13,Green 6,Red 11,Red 14,Red 5,Red 8,Red 9,Yellow 11,Yellow 14,Yellow 7,75
+Hand 279,Black 10,Black 7,Green 11,Green 12,Green 13,Red 12,Red 6,Yellow 11,Yellow 5,Yellow 8,70
+Hand 280,Black 5,Green 10,Green 5,Green 9,Red 10,Red 13,Red 7,Yellow 11,Yellow 12,Yellow 13,70
+Hand 281,Black 10,Black 13,Black 8,Green 5,Green 6,Red 10,Red 9,Yellow 10,Yellow 14,Yellow 5,70
+Hand 282,Black 5,Green 14,Green 7,Green 8,Red 11,Red 12,Red 7,Rook,Yellow 13,Yellow 5,70
+Hand 283,Black 12,Green 9,Red 14,Red 6,Red 8,Yellow 11,Yellow 12,Yellow 5,Yellow 6,Yellow 9,75
+Hand 284,Black 11,Black 14,Black 6,Black 9,Green 10,Green 13,Red 13,Yellow 5,Yellow 7,Yellow 8,75
+Hand 285,Black 7,Green 14,Green 6,Green 8,Red 11,Red 13,Red 14,Yellow 12,Yellow 5,Yellow 9,75
+Hand 286,Black 13,Black 5,Black 8,Black 9,Red 10,Red 6,Red 8,Yellow 11,Yellow 6,Yellow 9,70
+Hand 287,Black 11,Black 6,Green 11,Green 13,Red 12,Red 9,Yellow 13,Yellow 14,Yellow 8,Yellow 9,70
+Hand 288,Black 10,Black 14,Green 12,Green 5,Green 7,Green 9,Red 5,Rook,Yellow 7,Yellow 9,75
+Hand 289,Black 10,Black 13,Green 13,Green 7,Green 8,Red 13,Rook,Yellow 11,Yellow 5,Yellow 6,70
+Hand 290,Black 11,Black 5,Green 11,Green 12,Green 5,Green 7,Green 9,Red 7,Yellow 12,Yellow 13,70
+Hand 291,Black 12,Black 14,Black 9,Green 10,Green 7,Red 6,Red 8,Yellow 10,Yellow 8,Yellow 9,70
+Hand 292,Black 6,Black 7,Black 8,Green 6,Green 7,Red 10,Red 11,Red 12,Red 9,Yellow 7,70
+Hand 293,Black 5,Black 8,Green 14,Green 7,Green 8,Red 13,Red 14,Red 5,Yellow 12,Yellow 9,70
+Hand 294,Black 12,Black 7,Green 10,Green 12,Green 7,Green 9,Red 10,Rook,Yellow 11,Yellow 5,70
+Hand 295,Black 13,Black 14,Black 9,Green 5,Green 7,Red 8,Red 9,Yellow 10,Yellow 14,Yellow 7,70
+Hand 296,Black 10,Black 11,Black 6,Green 13,Green 6,Green 7,Red 11,Red 12,Yellow 13,Yellow 6,70
+Hand 297,Black 13,Black 14,Black 7,Green 10,Green 11,Green 7,Green 9,Red 13,Red 8,Yellow 6,70
+Hand 298,Black 11,Black 5,Black 9,Green 13,Green 5,Green 6,Green 8,Red 12,Red 14,Red 8,70
+Hand 299,Black 12,Black 6,Red 11,Red 5,Red 8,Yellow 10,Yellow 11,Yellow 13,Yellow 14,Yellow 8,80
+Hand 300,Black 10,Black 8,Green 14,Red 10,Red 7,Red 8,Red 9,Yellow 12,Yellow 7,Yellow 9,70
+Hand 301,Black 5,Green 11,Green 12,Red 11,Red 12,Red 5,Yellow 10,Yellow 14,Yellow 8,Yellow 9,75
+Hand 302,Black 5,Black 6,Black 9,Green 7,Green 9,Red 10,Yellow 12,Yellow 13,Yellow 5,Yellow 7,70
+Hand 303,Black 12,Black 13,Black 5,Black 7,Green 10,Green 14,Green 8,Red 6,Red 7,Yellow 6,75
+Hand 304,Black 10,Black 5,Black 8,Green 13,Green 6,Red 13,Red 14,Red 9,Rook,Yellow 11,70
+Hand 305,Black 10,Black 11,Black 14,Green 10,Green 14,Green 8,Red 12,Red 5,Yellow 13,Yellow 5,75
+Hand 306,Green 13,Green 5,Red 11,Red 7,Red 9,Yellow 12,Yellow 14,Yellow 5,Yellow 6,Yellow 8,75
+Hand 307,Black 5,Black 6,Black 9,Green 12,Green 6,Green 9,Red 13,Red 14,Rook,Yellow 5,70
+Hand 308,Black 12,Black 13,Black 7,Black 8,Green 11,Green 7,Yellow 10,Yellow 11,Yellow 5,Yellow 7,70
+Hand 309,Black 10,Black 5,Green 5,Green 9,Red 7,Red 9,Yellow 11,Yellow 5,Yellow 7,Yellow 9,70
+Hand 310,Black 11,Black 13,Black 8,Black 9,Green 14,Green 5,Green 7,Red 10,Rook,Yellow 6,70
+Hand 311,Black 12,Green 12,Green 5,Green 6,Red 13,Red 14,Red 5,Yellow 10,Yellow 12,Yellow 13,70
+Hand 312,Black 14,Black 6,Black 7,Green 10,Green 5,Red 11,Red 12,Red 8,Yellow 14,Yellow 8,70
+Hand 313,Black 10,Black 12,Black 5,Black 7,Green 11,Green 12,Green 13,Green 14,Green 8,Yellow 5,80
+Hand 314,Black 5,Black 8,Green 7,Red 12,Red 14,Red 6,Red 9,Yellow 10,Yellow 12,Yellow 9,70
+Hand 315,Black 14,Black 5,Green 10,Red 11,Red 13,Red 7,Yellow 13,Yellow 14,Yellow 7,Yellow 8,75
+Hand 316,Black 11,Black 13,Black 5,Black 6,Black 9,Green 5,Green 9,Red 10,Red 8,Yellow 11,70
+Hand 317,Green 10,Green 11,Red 10,Red 11,Red 13,Red 5,Red 6,Yellow 10,Yellow 14,Yellow 8,75
+Hand 318,Black 10,Black 12,Black 5,Black 6,Black 7,Red 5,Yellow 11,Yellow 13,Yellow 5,Yellow 6,70
+Hand 319,Black 14,Black 8,Black 9,Green 12,Green 13,Green 14,Green 5,Green 6,Red 12,Red 5,80
+Hand 320,Black 11,Green 7,Green 8,Green 9,Red 14,Red 5,Red 8,Red 9,Rook,Yellow 9,70
+Hand 321,Black 12,Black 13,Black 8,Green 14,Green 8,Red 14,Red 7,Yellow 13,Yellow 14,Yellow 7,70
+Hand 322,Black 14,Green 10,Green 6,Red 12,Red 13,Red 6,Yellow 10,Yellow 5,Yellow 6,Yellow 7,70
+Hand 323,Black 11,Black 5,Green 12,Red 10,Red 11,Red 9,Rook,Yellow 7,Yellow 8,Yellow 9,70
+Hand 324,Black 10,Black 6,Black 9,Green 11,Green 5,Green 7,Green 9,Yellow 11,Yellow 12,Yellow 7,70
+Hand 325,Black 6,Red 12,Red 13,Red 14,Red 6,Red 8,Red 9,Rook,Yellow 6,Yellow 9,80
+Hand 326,Black 5,Green 12,Green 13,Green 14,Green 5,Red 10,Red 6,Yellow 10,Yellow 11,Yellow 12,75
+Hand 327,Black 10,Black 11,Black 12,Black 14,Black 8,Red 11,Red 6,Yellow 14,Yellow 5,Yellow 8,80
+Hand 328,Black 7,Black 9,Green 10,Green 11,Green 8,Green 9,Red 5,Red 6,Yellow 13,Yellow 7,70
+Hand 329,Black 10,Black 7,Green 12,Red 11,Red 12,Red 5,Red 8,Yellow 11,Yellow 12,Yellow 14,75
+Hand 330,Black 14,Black 9,Green 14,Green 7,Red 10,Red 11,Red 13,Yellow 5,Yellow 6,Yellow 7,70
+Hand 331,Black 11,Black 5,Green 6,Green 9,Red 11,Red 6,Red 7,Red 9,Yellow 13,Yellow 9,70
+Hand 332,Black 13,Black 8,Green 10,Green 11,Green 13,Green 5,Red 11,Rook,Yellow 10,Yellow 8,70
+Hand 333,Black 10,Black 12,Black 7,Green 14,Red 10,Red 12,Red 13,Red 6,Yellow 12,Yellow 13,70
+Hand 334,Black 10,Black 11,Black 13,Black 14,Green 10,Green 13,Green 6,Green 9,Yellow 5,Yellow 9,80
+Hand 335,Black 10,Black 5,Green 5,Red 11,Red 14,Red 7,Red 8,Yellow 10,Yellow 7,Yellow 8,70
+Hand 336,Black 10,Black 6,Black 8,Black 9,Green 7,Red 5,Red 9,Rook,Yellow 11,Yellow 14,70
+Hand 337,Black 13,Green 10,Green 11,Green 14,Red 13,Red 9,Yellow 11,Yellow 12,Yellow 13,Yellow 9,75
+Hand 338,Green 10,Green 12,Green 8,Red 10,Red 11,Red 12,Red 5,Red 6,Rook,Yellow 14,70
+Hand 339,Black 14,Black 5,Black 7,Black 9,Green 10,Green 5,Green 7,Green 9,Red 8,Yellow 10,70
+Hand 340,Black 11,Black 12,Green 10,Green 13,Green 6,Red 14,Yellow 5,Yellow 6,Yellow 7,Yellow 8,70
+Hand 341,Black 11,Black 12,Black 13,Green 9,Red 12,Red 13,Red 6,Red 8,Yellow 10,Yellow 12,70
+Hand 342,Black 14,Black 8,Green 11,Green 13,Green 14,Green 8,Red 11,Red 12,Yellow 11,Yellow 13,75
+Hand 343,Black 10,Black 5,Black 6,Black 7,Black 9,Green 5,Green 7,Red 12,Yellow 6,Yellow 8,70
+Hand 344,Green 12,Green 6,Red 10,Red 12,Red 14,Red 5,Red 7,Rook,Yellow 7,Yellow 9,80
+Hand 345,Black 5,Black 7,Black 8,Green 14,Green 8,Red 11,Red 12,Red 9,Yellow 10,Yellow 8,70
+Hand 346,Black 9,Green 10,Green 11,Green 5,Green 9,Red 12,Red 13,Red 5,Rook,Yellow 11,70
+Hand 347,Black 10,Black 13,Black 6,Green 12,Green 13,Red 10,Red 12,Red 8,Yellow 12,Yellow 14,70
+Hand 348,Black 11,Black 12,Black 14,Red 12,Red 14,Red 6,Red 7,Yellow 5,Yellow 6,Yellow 7,75
+Hand 349,Black 13,Black 14,Black 5,Black 6,Green 14,Red 10,Red 12,Yellow 12,Yellow 8,Yellow 9,70
+Hand 350,Black 7,Green 10,Green 13,Green 14,Green 9,Red 14,Rook,Yellow 11,Yellow 13,Yellow 6,80
+Hand 351,Black 10,Black 12,Black 8,Black 9,Green 14,Green 5,Red 5,Red 6,Red 7,Red 8,70
+Hand 352,Black 11,Green 11,Green 12,Green 14,Green 7,Red 11,Red 13,Red 9,Yellow 10,Yellow 5,75
+Hand 353,Black 7,Black 8,Green 12,Green 14,Red 14,Rook,Yellow 11,Yellow 12,Yellow 5,Yellow 8,75
+Hand 354,Black 10,Black 5,Black 9,Green 11,Green 13,Green 9,Red 11,Red 7,Red 9,Yellow 8,70
+Hand 355,Black 14,Green 10,Green 5,Green 6,Green 8,Red 10,Red 8,Yellow 14,Yellow 6,Yellow 8,70
+Hand 356,Black 11,Black 12,Black 6,Red 12,Red 13,Red 5,Red 6,Yellow 7,Yellow 8,Yellow 9,70
+Hand 357,Black 10,Black 13,Black 6,Green 12,Green 13,Red 5,Red 7,Red 8,Yellow 13,Yellow 9,70
+Hand 358,Black 6,Green 11,Green 6,Green 7,Red 11,Red 6,Yellow 11,Yellow 12,Yellow 7,Yellow 8,70
+Hand 359,Black 11,Black 6,Black 9,Green 9,Red 10,Red 12,Red 13,Red 14,Yellow 14,Yellow 6,75
+Hand 360,Black 12,Black 14,Black 5,Black 6,Black 7,Black 8,Green 10,Green 14,Green 5,Yellow 5,75
+Hand 361,Black 11,Black 14,Black 7,Black 8,Green 13,Red 12,Red 13,Red 6,Red 7,Yellow 14,70
+Hand 362,Black 13,Black 5,Black 8,Green 10,Green 14,Red 14,Red 8,Yellow 11,Yellow 13,Yellow 5,70
+Hand 363,Black 10,Black 8,Green 11,Green 12,Green 7,Green 8,Red 10,Red 11,Red 5,Yellow 10,70
+Hand 364,Black 6,Black 8,Black 9,Green 5,Green 6,Green 9,Red 9,Rook,Yellow 7,Yellow 8,70
+Hand 365,Black 10,Black 5,Black 6,Black 9,Green 10,Green 12,Red 12,Yellow 5,Yellow 6,Yellow 7,70
+Hand 366,Black 13,Black 7,Black 8,Green 13,Green 7,Red 10,Red 11,Red 12,Yellow 10,Yellow 12,70
+Hand 367,Green 11,Green 14,Green 6,Green 8,Green 9,Red 12,Red 13,Red 7,Yellow 8,Yellow 9,70
+Hand 368,Black 11,Black 14,Red 12,Red 14,Red 5,Red 6,Red 8,Rook,Yellow 11,Yellow 13,80
+Hand 369,Black 5,Black 9,Green 10,Red 10,Red 13,Rook,Yellow 14,Yellow 5,Yellow 6,Yellow 8,75
+Hand 370,Black 11,Black 12,Green 11,Green 12,Green 9,Red 10,Red 6,Red 8,Yellow 10,Yellow 13,70
+Hand 371,Black 13,Black 14,Green 13,Green 14,Green 7,Red 10,Red 11,Red 14,Yellow 7,Yellow 9,75
+Hand 372,Black 7,Black 8,Green 6,Green 8,Red 10,Red 12,Red 5,Red 9,Yellow 11,Yellow 12,70
+Hand 373,Black 11,Black 8,Black 9,Green 12,Green 14,Green 8,Green 9,Red 12,Yellow 10,Yellow 8,70
+Hand 374,Black 10,Black 13,Black 5,Green 5,Green 7,Green 9,Red 5,Red 6,Red 7,Yellow 7,70
+Hand 375,Black 12,Black 6,Green 10,Green 11,Green 13,Green 9,Red 13,Red 14,Red 8,Yellow 5,70
+Hand 376,Black 14,Black 7,Green 6,Green 9,Red 10,Red 11,Rook,Yellow 12,Yellow 14,Yellow 9,75
+Hand 377,Black 9,Green 11,Green 6,Red 7,Rook,Yellow 11,Yellow 12,Yellow 5,Yellow 6,Yellow 9,80
+Hand 378,Black 13,Black 14,Black 8,Green 10,Green 11,Green 12,Green 5,Green 8,Red 8,Yellow 8,70
+Hand 379,Black 10,Black 6,Black 7,Green 11,Red 10,Red 13,Red 5,Red 6,Yellow 13,Yellow 14,70
+Hand 380,Black 11,Green 11,Green 13,Green 14,Green 7,Green 9,Red 12,Red 14,Red 9,Yellow 7,80
+Hand 381,Black 10,Black 5,Black 7,Red 11,Red 12,Red 14,Red 5,Red 6,Rook,Yellow 14,85
+Hand 382,Black 11,Black 6,Black 9,Green 13,Green 7,Red 6,Red 7,Red 8,Red 9,Yellow 5,70
+Hand 383,Black 13,Black 8,Green 11,Green 6,Green 8,Green 9,Red 6,Yellow 13,Yellow 6,Yellow 9,70
+Hand 384,Black 14,Green 10,Green 12,Green 14,Red 13,Red 6,Yellow 10,Yellow 11,Yellow 12,Yellow 7,70
+Hand 385,Black 11,Green 11,Green 6,Red 11,Red 5,Red 6,Red 8,Red 9,Yellow 11,Yellow 5,70
+Hand 386,Black 13,Black 5,Black 7,Green 10,Green 13,Green 6,Green 7,Yellow 10,Yellow 12,Yellow 9,70
+Hand 387,Black 12,Black 6,Black 9,Green 12,Green 6,Red 10,Red 12,Red 14,Red 7,Yellow 13,75
+Hand 388,Black 10,Black 8,Green 14,Green 6,Green 8,Red 13,Rook,Yellow 14,Yellow 6,Yellow 8,75
+Hand 389,Black 11,Black 6,Black 7,Green 13,Green 5,Red 11,Red 13,Red 9,Yellow 6,Yellow 9,70
+Hand 390,Green 10,Green 11,Green 14,Green 8,Red 11,Red 12,Yellow 13,Yellow 5,Yellow 7,Yellow 8,80
+Hand 391,Black 10,Black 12,Black 14,Black 8,Black 9,Green 9,Red 11,Red 6,Red 7,Yellow 11,80
+Hand 392,Black 13,Black 5,Green 12,Green 6,Green 7,Red 10,Red 11,Red 14,Rook,Yellow 10,75
+Hand 393,Black 8,Black 9,Green 10,Green 7,Red 10,Red 7,Yellow 10,Yellow 14,Yellow 7,Yellow 9,75
+Hand 394,Black 10,Black 13,Black 6,Black 9,Green 5,Red 13,Red 6,Yellow 5,Yellow 6,Yellow 8,70
+Hand 395,Black 11,Black 14,Black 7,Black 9,Red 11,Red 12,Red 14,Red 5,Yellow 11,Yellow 12,75
+Hand 396,Black 12,Black 5,Black 9,Green 12,Green 13,Green 6,Green 9,Red 9,Rook,Yellow 13,70
+Hand 397,Black 13,Green 6,Green 9,Red 11,Red 12,Red 9,Yellow 11,Yellow 13,Yellow 5,Yellow 9,70
+Hand 398,Black 6,Black 9,Green 10,Green 11,Green 14,Red 7,Red 9,Yellow 6,Yellow 7,Yellow 8,70
+Hand 399,Black 10,Black 11,Black 5,Green 12,Green 5,Red 13,Red 5,Red 8,Red 9,Yellow 10,70
+Hand 400,Black 14,Black 7,Black 8,Green 8,Red 10,Red 14,Red 9,Rook,Yellow 12,Yellow 14,75
+Hand 401,Black 11,Green 12,Red 10,Red 11,Red 6,Rook,Yellow 12,Yellow 14,Yellow 5,Yellow 8,75
+Hand 402,Black 11,Black 12,Black 14,Black 5,Black 7,Green 10,Red 9,Yellow 11,Yellow 13,Yellow 7,75
+Hand 403,Black 10,Black 11,Black 6,Black 9,Green 5,Green 6,Green 8,Red 12,Red 5,Yellow 6,70
+Hand 404,Black 11,Black 8,Green 14,Green 7,Green 9,Red 13,Red 7,Red 8,Yellow 10,Yellow 9,70
+Hand 405,Black 10,Black 13,Green 11,Green 8,Green 9,Red 12,Red 14,Red 6,Yellow 7,Yellow 8,75
+Hand 406,Black 5,Black 6,Black 7,Green 6,Green 7,Red 6,Red 7,Yellow 13,Yellow 14,Yellow 9,75
+Hand 407,Black 12,Black 14,Black 8,Green 12,Green 5,Red 10,Red 6,Red 9,Yellow 10,Yellow 12,70
+Hand 408,Black 11,Green 10,Green 13,Green 14,Red 11,Red 5,Red 6,Rook,Yellow 11,Yellow 5,70
+Hand 409,Black 12,Black 13,Black 14,Black 9,Green 11,Green 6,Green 7,Red 7,Red 9,Yellow 9,80
+Hand 410,Black 11,Black 6,Green 10,Green 12,Green 6,Red 13,Red 14,Rook,Yellow 12,Yellow 5,75
+Hand 411,Black 7,Green 14,Green 6,Red 10,Red 11,Red 5,Red 8,Yellow 13,Yellow 6,Yellow 7,70
+Hand 412,Black 10,Black 5,Green 13,Green 6,Green 8,Red 12,Yellow 10,Yellow 11,Yellow 14,Yellow 8,80
+Hand 413,Black 12,Black 6,Black 8,Black 9,Green 6,Green 9,Red 9,Yellow 12,Yellow 13,Yellow 14,75
+Hand 414,Black 10,Black 14,Green 11,Red 11,Red 8,Yellow 10,Yellow 11,Yellow 14,Yellow 6,Yellow 8,80
+Hand 415,Black 13,Black 7,Green 10,Green 12,Green 13,Green 14,Green 8,Yellow 14,Yellow 5,Yellow 9,85
+Hand 416,Green 5,Green 7,Red 12,Red 13,Red 14,Red 5,Red 7,Rook,Yellow 14,Yellow 7,85
+Hand 417,Black 11,Black 12,Black 7,Black 8,Green 14,Red 8,Yellow 10,Yellow 13,Yellow 14,Yellow 9,80
+Hand 418,Black 10,Black 7,Green 11,Green 12,Green 5,Green 8,Red 13,Red 5,Yellow 11,Yellow 8,70
+Hand 419,Black 14,Black 5,Black 7,Green 10,Green 13,Red 10,Red 6,Rook,Yellow 12,Yellow 5,70
+Hand 420,Black 6,Black 7,Black 9,Green 6,Green 7,Green 9,Red 11,Red 7,Red 9,Yellow 7,70
+Hand 421,Black 6,Black 7,Black 8,Black 9,Green 5,Green 7,Green 8,Green 9,Yellow 7,Yellow 9,70
+Hand 422,Green 10,Green 6,Red 10,Red 5,Red 7,Rook,Yellow 10,Yellow 12,Yellow 5,Yellow 9,75
+Hand 423,Black 11,Black 12,Black 13,Green 13,Red 12,Red 6,Yellow 11,Yellow 13,Yellow 8,Yellow 9,75
+Hand 424,Black 10,Black 14,Green 11,Green 14,Red 11,Red 13,Red 14,Red 8,Yellow 14,Yellow 9,80
+Hand 425,Black 10,Black 9,Green 13,Green 6,Green 7,Red 10,Red 8,Rook,Yellow 12,Yellow 9,70
+Hand 426,Black 9,Green 11,Green 5,Green 8,Red 11,Red 12,Red 13,Red 9,Yellow 11,Yellow 5,70
+Hand 427,Black 11,Black 12,Black 14,Black 5,Black 8,Black 9,Red 5,Yellow 10,Yellow 6,Yellow 7,85
+Hand 428,Black 13,Black 7,Black 9,Green 10,Green 14,Green 9,Red 14,Red 7,Yellow 13,Yellow 8,75
+Hand 429,Black 10,Black 12,Black 7,Black 8,Green 7,Green 8,Red 10,Red 7,Yellow 10,Yellow 12,70
+Hand 430,Black 12,Black 5,Black 9,Green 10,Green 11,Green 13,Green 9,Yellow 14,Yellow 6,Yellow 8,70
+Hand 431,Black 12,Black 6,Green 5,Green 6,Red 12,Red 13,Red 14,Red 5,Rook,Yellow 7,80
+Hand 432,Black 12,Black 13,Green 12,Red 11,Red 6,Red 8,Yellow 11,Yellow 13,Yellow 5,Yellow 9,70
+Hand 433,Green 11,Green 5,Green 6,Red 10,Red 11,Red 7,Yellow 10,Yellow 11,Yellow 5,Yellow 7,70
+Hand 434,Black 5,Black 6,Green 12,Green 8,Red 8,Red 9,Rook,Yellow 10,Yellow 12,Yellow 14,85
+Hand 435,Black 10,Black 12,Green 13,Green 14,Green 9,Red 5,Red 6,Yellow 10,Yellow 6,Yellow 8,70
+Hand 436,Black 13,Black 14,Black 7,Black 9,Green 7,Red 13,Red 14,Yellow 10,Yellow 13,Yellow 9,75
+Hand 437,Black 13,Black 14,Black 7,Red 10,Red 11,Red 12,Red 14,Red 7,Red 8,Yellow 9,85
+Hand 438,Black 14,Black 8,Black 9,Green 10,Green 13,Green 6,Green 8,Red 9,Rook,Yellow 8,75
+Hand 439,Black 10,Black 12,Black 14,Green 14,Green 7,Red 13,Yellow 10,Yellow 14,Yellow 6,Yellow 7,80
+Hand 440,Black 14,Black 5,Green 11,Green 12,Green 5,Red 5,Red 6,Yellow 11,Yellow 12,Yellow 13,70
+Hand 441,Black 6,Black 9,Green 10,Green 12,Green 5,Red 11,Red 14,Red 6,Red 8,Yellow 5,70
+Hand 442,Black 11,Green 11,Green 6,Green 7,Red 11,Red 12,Red 7,Rook,Yellow 14,Yellow 9,70
+Hand 443,Black 10,Black 13,Black 14,Black 5,Black 7,Red 10,Red 11,Red 13,Yellow 12,Yellow 6,80
+Hand 444,Black 12,Black 8,Green 14,Green 8,Green 9,Red 11,Red 9,Yellow 10,Yellow 11,Yellow 8,70
+Hand 445,Black 9,Green 12,Green 5,Green 6,Green 7,Green 8,Green 9,Red 7,Yellow 11,Yellow 13,70
+Hand 446,Black 12,Black 5,Black 8,Green 10,Green 7,Red 10,Red 13,Red 6,Yellow 14,Yellow 6,70
+Hand 447,Black 14,Green 13,Green 14,Green 7,Red 11,Red 9,Yellow 12,Yellow 5,Yellow 7,Yellow 9,70
+Hand 448,Black 11,Black 7,Green 11,Green 7,Red 12,Red 14,Red 5,Red 8,Rook,Yellow 10,80
+Hand 449,Black 12,Black 6,Black 8,Green 7,Green 8,Red 7,Red 9,Yellow 12,Yellow 14,Yellow 5,70
+Hand 450,Black 10,Black 14,Black 7,Green 5,Red 12,Red 14,Red 5,Yellow 13,Yellow 14,Yellow 9,80
+Hand 451,Black 11,Black 5,Green 11,Green 12,Green 9,Red 10,Red 11,Yellow 11,Yellow 14,Yellow 6,70
+Hand 452,Black 13,Black 9,Green 13,Green 6,Red 13,Red 6,Red 8,Rook,Yellow 14,Yellow 8,70
+Hand 453,Black 10,Black 13,Black 7,Black 8,Black 9,Green 12,Green 6,Yellow 11,Yellow 14,Yellow 6,75
+Hand 454,Black 10,Black 12,Black 14,Green 10,Red 13,Red 6,Red 8,Yellow 13,Yellow 5,Yellow 9,70
+Hand 455,Black 10,Black 11,Green 14,Green 5,Red 11,Red 12,Red 14,Yellow 10,Yellow 12,Yellow 7,70
+Hand 456,Black 10,Black 5,Black 6,Green 13,Green 7,Green 8,Green 9,Red 10,Red 7,Yellow 8,70
+Hand 457,Black 7,Green 10,Green 11,Red 10,Red 11,Red 7,Red 8,Red 9,Yellow 12,Yellow 7,70
+Hand 458,Black 14,Black 5,Green 10,Green 12,Green 13,Green 7,Green 8,Green 9,Red 13,Yellow 14,80
+Hand 459,Black 12,Black 9,Green 10,Green 14,Green 5,Red 12,Rook,Yellow 11,Yellow 6,Yellow 8,75
+Hand 460,Black 11,Black 13,Black 6,Green 10,Green 6,Red 5,Yellow 10,Yellow 13,Yellow 5,Yellow 9,70
+Hand 461,Black 14,Black 8,Black 9,Green 11,Green 14,Green 9,Red 11,Red 5,Yellow 13,Yellow 14,75
+Hand 462,Black 7,Black 8,Green 12,Green 13,Red 13,Red 9,Rook,Yellow 10,Yellow 8,Yellow 9,70
+Hand 463,Black 12,Black 13,Black 8,Green 7,Green 8,Red 10,Red 12,Red 7,Red 8,Yellow 6,70
+Hand 464,Black 10,Black 5,Black 6,Black 8,Red 14,Red 6,Yellow 11,Yellow 12,Yellow 5,Yellow 7,70
+Hand 465,Green 11,Green 13,Green 7,Green 9,Red 6,Red 8,Red 9,Yellow 5,Yellow 8,Yellow 9,70
+Hand 466,Black 6,Green 10,Green 12,Green 5,Green 8,Red 14,Yellow 11,Yellow 12,Yellow 7,Yellow 8,70
+Hand 467,Black 10,Black 13,Black 5,Black 7,Green 6,Red 10,Red 13,Yellow 13,Yellow 6,Yellow 8,70
+Hand 468,Black 11,Black 12,Black 14,Black 9,Green 14,Red 12,Red 5,Red 7,Yellow 10,Yellow 8,80
+Hand 469,Black 11,Black 12,Black 14,Black 6,Black 7,Black 9,Red 14,Red 9,Yellow 11,Yellow 6,85
+Hand 470,Black 11,Green 13,Green 6,Red 11,Red 13,Red 6,Red 7,Rook,Yellow 10,Yellow 9,70
+Hand 471,Black 10,Black 11,Green 11,Green 14,Green 5,Red 10,Red 5,Yellow 12,Yellow 14,Yellow 5,75
+Hand 472,Black 11,Black 13,Green 10,Green 12,Green 8,Green 9,Red 12,Red 8,Yellow 7,Yellow 8,70
+Hand 473,Black 14,Black 7,Green 11,Red 11,Red 12,Red 7,Rook,Yellow 12,Yellow 6,Yellow 8,70
+Hand 474,Black 11,Black 12,Green 13,Green 14,Green 5,Green 6,Green 9,Yellow 13,Yellow 7,Yellow 8,80
+Hand 475,Black 13,Black 8,Green 10,Green 7,Red 13,Red 14,Red 8,Yellow 10,Yellow 5,Yellow 8,70
+Hand 476,Black 10,Black 5,Black 6,Black 9,Green 8,Red 10,Red 5,Red 6,Yellow 8,Yellow 9,70
+Hand 477,Black 12,Black 13,Black 7,Black 8,Green 12,Green 14,Green 5,Red 13,Red 6,Yellow 8,70
+Hand 478,Black 10,Black 13,Black 14,Black 5,Black 6,Black 9,Green 11,Red 5,Red 7,Yellow 7,85
+Hand 479,Black 13,Green 10,Green 6,Green 8,Red 11,Red 14,Red 8,Yellow 12,Yellow 14,Yellow 6,75
+Hand 480,Black 11,Black 13,Green 7,Red 10,Red 12,Rook,Yellow 11,Yellow 13,Yellow 5,Yellow 9,80
+Hand 481,Black 12,Green 10,Green 11,Green 12,Green 5,Green 8,Red 10,Red 13,Yellow 11,Yellow 13,75
+Hand 482,Black 14,Black 6,Green 10,Green 6,Red 11,Red 14,Red 8,Rook,Yellow 12,Yellow 5,75
+Hand 483,Black 10,Black 13,Black 5,Black 8,Black 9,Green 10,Green 7,Red 6,Yellow 10,Yellow 7,75
+Hand 484,Black 11,Black 7,Green 10,Green 14,Red 12,Red 5,Red 7,Red 9,Yellow 6,Yellow 9,70
+Hand 485,Black 11,Black 5,Black 8,Green 7,Green 8,Red 12,Red 13,Yellow 6,Yellow 7,Yellow 8,70
+Hand 486,Black 12,Black 5,Green 12,Green 14,Green 6,Green 9,Red 6,Red 7,Red 8,Yellow 13,70
+Hand 487,Black 14,Black 5,Black 7,Green 10,Green 11,Green 5,Red 10,Yellow 10,Yellow 11,Yellow 14,70
+Hand 488,Black 10,Black 13,Black 5,Black 6,Red 11,Red 14,Red 5,Red 9,Rook,Yellow 9,80
+Hand 489,Black 10,Black 12,Black 5,Black 8,Green 11,Green 13,Green 8,Red 14,Red 6,Yellow 12,75
+Hand 490,Black 13,Black 7,Black 8,Green 14,Red 11,Red 13,Rook,Yellow 10,Yellow 14,Yellow 7,75
+Hand 491,Black 11,Black 14,Black 6,Black 8,Black 9,Green 12,Green 9,Red 10,Yellow 8,Yellow 9,75
+Hand 492,Black 8,Green 6,Green 7,Red 12,Red 5,Red 7,Red 8,Yellow 11,Yellow 13,Yellow 5,70
+Hand 493,Black 11,Black 13,Black 14,Black 7,Red 14,Red 5,Red 8,Red 9,Yellow 13,Yellow 8,80
+Hand 494,Black 10,Black 11,Black 6,Black 9,Green 13,Green 8,Red 10,Red 7,Yellow 11,Yellow 14,70
+Hand 495,Black 11,Black 12,Green 12,Green 14,Green 5,Green 9,Yellow 12,Yellow 5,Yellow 6,Yellow 7,70
+Hand 496,Black 11,Black 5,Black 8,Green 7,Red 11,Red 12,Red 13,Rook,Yellow 10,Yellow 9,70
+Hand 497,Black 11,Black 12,Black 5,Black 9,Green 12,Green 14,Red 12,Red 14,Yellow 7,Yellow 8,70
+Hand 498,Black 13,Black 6,Green 12,Green 6,Red 13,Red 5,Yellow 10,Yellow 13,Yellow 14,Yellow 9,75
+Hand 499,Black 8,Green 11,Green 12,Green 13,Green 7,Red 11,Red 6,Red 9,Rook,Yellow 6,75
+Hand 500,Black 10,Black 14,Green 10,Green 12,Green 5,Green 8,Red 7,Yellow 11,Yellow 12,Yellow 5,70
+Hand 501,Red 10,Black 12,Green 10,Green 8,Yellow 10,Yellow 11,Yellow 12,Yellow 13,Yellow 14,Rook,90
+Hand 502,Black 5,Black 6,Yellow 13,Red 14,Green 8,Green 9,Green 10,Green 12,Green 14,Rook,90
+Hand 503,Yellow 6,Yellow 7,Black 7,Green 7,Red 9,Red 10,Red 11,Red 12,Red 13,Rook,90
+Hand 504,Yellow 10,Green 7,Black 13,Black 14,Red 10,Red 11,Red 12,Red 13,Red 14,Rook,90
+Hand 505,Yellow 6,Green 13,Green 14,Red 13,Red 14,Black 10,Black 11,Black 13,Black 14,Rook,90
+Hand 506,Red 10,Black 13,Black 14,Yellow 9,Yellow 10,Yellow 11,Yellow 12,Yellow 13,Yellow 14,Rook,95
+Hand 507,Red 10,Black 12,Red 14,Black 14,Yellow 10,Yellow 11,Yellow 12,Yellow 13,Yellow 14,Rook,95
+Hand 508,Black 5,Black 14,Red 13,Red 14,Green 8,Green 11,Green 13,Green 12,Green 14,Rook,95
+Hand 509,Yellow 12,Yellow 14,Black 12,Red 6,Red 8,Red 12,Red 11,Red 13,Red 14,Rook,95
+Hand 510,Green 13,Green 14,Black 6,Black 14,Red 5,Red 7,Red 12,Red 13,Red 14,Rook,95
+Hand 511,Black 12,Black 13,Black 14,Yellow 9,Yellow 10,Yellow 11,Yellow 12,Yellow 13,Yellow 14,Rook,100
+Hand 512,Green 6,Black 13,Black 14,Yellow 9,Yellow 10,Yellow 11,Yellow 12,Yellow 13,Yellow 14,Rook,100
+Hand 513,Red 10,Green 14,Green 10,Yellow 9,Yellow 10,Yellow 11,Yellow 12,Yellow 13,Yellow 14,Rook,100
+Hand 514,Black 5,Red 14,Green 12,Yellow 9,Yellow 10,Yellow 11,Yellow 12,Yellow 13,Yellow 14,Rook,100
+Hand 515,Yellow 14,Red 13,Red 14,Green 8,Green 9,Green 10,Green 7,Green 13,Green 14,Rook,100
+Hand 516,Black 11,Black 14,Red 14,Green 8,Green 9,Green 10,Green 11,Green 12,Green 14,Rook,105
+Hand 517,Black 14,Green 14,Red 14,Green 8,Green 9,Green 10,Green 11,Green 12,Green 14,Rook,105
+Hand 518,Yellow 14,Red 13,Red 14,Green 8,Green 9,Green 10,Green 11,Green 13,Green 14,Rook,105
+Hand 519,Red 11,Red 13,Red 14,Green 9,Green 10,Green 11,Green 12,Green 13,Green 14,Rook,105
+Hand 520,Yellow 14,Black 13,Red 14,Green 8,Green 9,Green 10,Green 11,Green 12,Green 14,Rook,105
+Hand 521,Yellow 14,Yellow 13,Red 14,Green 8,Green 9,Green 10,Green 11,Green 12,Green 14,Rook,110
+Hand 522,Yellow 14,Red 13,Red 14,Green 8,Green 9,Green 10,Green 11,Green 12,Green 14,Rook,110
+Hand 523,Red 11,Red 13,Red 14,Green 8,Green 9,Green 10,Green 11,Green 12,Green 14,Rook,110
+Hand 524,Red 12,Red 13,Red 14,Green 8,Green 9,Green 10,Green 11,Green 12,Green 14,Rook,110
+Hand 525,Red 14,Black 14,Green 14,Yellow 8,Yellow 10,Yellow 11,Yellow 12,Yellow 13,Yellow 14,Rook,110
+Hand 526,Red 14,Black 14,Green 14,Yellow 7,Yellow 10,Yellow 11,Yellow 12,Yellow 13,Yellow 14,Rook,115
+Hand 527,Red 14,Black 14,Green 14,Yellow 9,Yellow 8,Yellow 11,Yellow 12,Yellow 13,Yellow 14,Rook,115
+Hand 528,Red 14,Black 14,Green 14,Yellow 9,Yellow 6,Yellow 11,Yellow 12,Yellow 13,Yellow 14,Rook,115
+Hand 529,Red 14,Red 13,Black 6,Yellow 9,Yellow 10,Yellow 11,Yellow 12,Yellow 13,Yellow 14,Rook,115
+Hand 530,Red 14,Red 13,Red 12,Yellow 9,Yellow 10,Yellow 11,Yellow 12,Yellow 13,Yellow 14,Rook,115
+Hand 531,Red 14,Red 13,Yellow 8,Yellow 9,Yellow 10,Yellow 11,Yellow 12,Yellow 13,Yellow 14,Rook,120
+Hand 532,Green 14,Red 14,Black 14,Yellow 9,Yellow 10,Yellow 11,Yellow 12,Yellow 13,Yellow 14,Rook,120
+Hand 533,Green 14,Green 13,Green 12,Yellow 9,Yellow 10,Yellow 11,Yellow 12,Yellow 13,Yellow 14,Rook,120
+Hand 534,Red 5,Yellow 7,Yellow 8,Yellow 9,Yellow 10,Yellow 11,Yellow 12,Yellow 13,Yellow 14,Rook,120
+Hand 535,Yellow 6,Yellow 7,Yellow 8,Yellow 9,Yellow 10,Yellow 11,Yellow 12,Yellow 13,Yellow 14,Rook,120

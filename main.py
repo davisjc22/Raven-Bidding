@@ -1,3 +1,5 @@
+import math
+
 import tensorflow as tf
 from tensorflow import keras
 from tensorflow.keras import layers, models, utils, backend as K
@@ -40,8 +42,8 @@ model_key = ['R5', 'R6', 'R7', 'R8', 'R9', 'R10', 'R11', 'R12', 'R13', 'R14',
              'G5', 'G6', 'G7', 'G8', 'G9', 'G10', 'G11', 'G12', 'G13', 'G14',
              'Y5', 'Y6', 'Y7', 'Y8', 'Y9', 'Y10', 'Y11', 'Y12', 'Y13', 'Y14', 'Rook']
 
-# Read In Data
-file = open('raven.csv')
+# Read In Training Data
+file = open('raven_train.csv')
 csvreader = csv.reader(file)
 next(csvreader)  # skip the header
 hands = []
@@ -96,15 +98,55 @@ for row in csvreader:
 # 500 original hands * 16 permutations for each hand = 8000 hands
 # use 87.5% of hands for training (7000) and 12.5% for testing (1000)
 train_bids = bids
-# train_bids = [int(x) for x in train_bids]
-test_hands = hands[9600:]
-test_bids = train_bids[9600:]
-train_hands = hands[:9600]
-train_bids = train_bids[:9600]
-# print(len(hands))
-# print(len(bids))
-# print(len(test_hands))
-# print(len(test_bids))
+train_hands = hands
+
+# Read In Training Data
+test_file = open('raven_test.csv')
+csvreader = csv.reader(test_file)
+next(csvreader)  # skip the header
+hands = []
+bids = []
+for row in csvreader:
+    # cards = row.split(",")
+    # put into 5 arrays of zeroes (black, green, red, yellow and rook)
+    black = [0 for i in range(10)]
+    green = [0 for i in range(10)]
+    red = [0 for i in range(10)]
+    yellow = [0 for i in range(10)]
+    rook = [0]
+    del row[0]
+    # print(*row)
+    bid = row.pop()
+    if bid != "":
+        bid = float(bid)
+        bid = (bid-70)/50  # normalize the bid between 70 and 120
+    # print("bid: ", bid)
+    for card in row:
+        if card == 'Rook':
+            rook[0] = 1
+        else:
+            details = card.split(" ")
+            # print(details)
+            if details[0] == 'Black':
+                black[int(details[1])-5] = 1
+            elif details[0] == 'Green':
+                green[int(details[1])-5] = 1
+            elif details[0] == 'Red':
+                red[int(details[1])-5] = 1
+            elif details[0] == 'Yellow':
+                yellow[int(details[1]) - 5] = 1
+    options = [black, green, red, yellow]  # array of four card colors
+    hand = black + green + red + yellow + rook
+    hands.append(hand)
+    bids.append(bid)
+
+test_hands = hands
+test_bids = bids
+
+# print(train_bids)
+# print(train_hands)
+# print(test_hands)
+# print(test_bids)
 
 
 n_features = 41
@@ -171,13 +213,13 @@ num_correct = 0
 for i in range(len(test_hands)):
     answer = model.predict([test_hands[i]])
     # print(answer)
-    answer = round(answer[0][0], 1)
+    answer = answer[0][0]
     # print("prediction: ", answer, "real: ", test_bids[i])
     hand_str = ""
     for j in range(len(test_hands[i])):
         if test_hands[i][j] is 1:
             hand_str = hand_str + " " + model_key[j]
-    guess_bid = round(get_bid(answer), 0)
+    guess_bid = 5 * round(math.ceil(get_bid(answer)) / 5) # get the ceiling of the bid then round to 5
     correct_bid = get_bid(test_bids[i])
     # print(hand_str, " guess bid: ", guess_bid, "| correct bid: ", correct_bid)
     if abs(guess_bid - correct_bid) <= 5.0:
